@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\ebac\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB7F8B01-5DA5-2AC1-BBD2-42C6F08B4940}|Assembly-CSharp.csproj|C:\\Users\\User\\ebac\\assets\\m\u00F3dulo 6\\prefab\\colorupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB7F8B01-5DA5-2AC1-BBD2-42C6F08B4940}|Assembly-CSharp.csproj|solutionrelative:assets\\m\u00F3dulo 6\\prefab\\colorupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\ebac\\Temp\\Compiled-Legacy Shaders-Diffuse.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Temp\\Compiled-Legacy Shaders-Diffuse.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7F8B01-5DA5-2AC1-BBD2-42C6F08B4940}|Assembly-CSharp.csproj|C:\\Users\\User\\ebac\\assets\\m\u00F3dulo 6\\prefab\\colorfixedupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB7F8B01-5DA5-2AC1-BBD2-42C6F08B4940}|Assembly-CSharp.csproj|solutionrelative:assets\\m\u00F3dulo 6\\prefab\\colorfixedupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB7F8B01-5DA5-2AC1-BBD2-42C6F08B4940}|Assembly-CSharp.csproj|c:\\users\\user\\ebac\\assets\\holamundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB7F8B01-5DA5-2AC1-BBD2-42C6F08B4940}|Assembly-CSharp.csproj|solutionrelative:assets\\holamundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB7F8B01-5DA5-2AC1-BBD2-42C6F08B4940}|Assembly-CSharp.csproj|C:\\Users\\User\\ebac\\assets\\m\u00F3dulo 6\\prefab\\colorawake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7F8B01-5DA5-2AC1-BBD2-42C6F08B4940}|Assembly-CSharp.csproj|solutionrelative:assets\\m\u00F3dulo 6\\prefab\\colorawake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7F8B01-5DA5-2AC1-BBD2-42C6F08B4940}|Assembly-CSharp.csproj|C:\\Users\\User\\ebac\\assets\\holamundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB7F8B01-5DA5-2AC1-BBD2-42C6F08B4940}|Assembly-CSharp.csproj|solutionrelative:assets\\holamundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB7F8B01-5DA5-2AC1-BBD2-42C6F08B4940}|Assembly-CSharp.csproj|C:\\Users\\User\\ebac\\assets\\m\u00F3dulo 6\\prefab\\colorupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB7F8B01-5DA5-2AC1-BBD2-42C6F08B4940}|Assembly-CSharp.csproj|solutionrelative:assets\\m\u00F3dulo 6\\prefab\\colorupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7F8B01-5DA5-2AC1-BBD2-42C6F08B4940}|Assembly-CSharp.csproj|C:\\Users\\User\\ebac\\assets\\m\u00F3dulo 6\\prefab\\colorfixedupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB7F8B01-5DA5-2AC1-BBD2-42C6F08B4940}|Assembly-CSharp.csproj|solutionrelative:assets\\m\u00F3dulo 6\\prefab\\colorfixedupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Compiled-Legacy Shaders-Diffuse.shader",
+              "DocumentMoniker": "C:\\Users\\User\\ebac\\Temp\\Compiled-Legacy Shaders-Diffuse.shader",
+              "RelativeDocumentMoniker": "Temp\\Compiled-Legacy Shaders-Diffuse.shader",
+              "ToolTip": "C:\\Users\\User\\ebac\\Temp\\Compiled-Legacy Shaders-Diffuse.shader",
+              "RelativeToolTip": "Temp\\Compiled-Legacy Shaders-Diffuse.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-08-26T16:09:15.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ColorUpdate.cs",
               "DocumentMoniker": "C:\\Users\\User\\ebac\\Assets\\M\u00F3dulo 6\\Prefab\\ColorUpdate.cs",
               "RelativeDocumentMoniker": "Assets\\M\u00F3dulo 6\\Prefab\\ColorUpdate.cs",
@@ -38,12 +55,11 @@
               "RelativeToolTip": "Assets\\M\u00F3dulo 6\\Prefab\\ColorUpdate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T15:51:43.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T15:51:43.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ColorFixedUpdate.cs",
               "DocumentMoniker": "C:\\Users\\User\\ebac\\Assets\\M\u00F3dulo 6\\Prefab\\ColorFixedUpdate.cs",
               "RelativeDocumentMoniker": "Assets\\M\u00F3dulo 6\\Prefab\\ColorFixedUpdate.cs",
@@ -51,8 +67,7 @@
               "RelativeToolTip": "Assets\\M\u00F3dulo 6\\Prefab\\ColorFixedUpdate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T15:51:11.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T15:51:11.282Z"
             },
             {
               "$type": "Document",
@@ -64,12 +79,11 @@
               "RelativeToolTip": "Assets\\M\u00F3dulo 6\\Prefab\\ColorAwake.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T15:49:39.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T15:49:39.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "HolaMundo.cs",
               "DocumentMoniker": "C:\\Users\\User\\ebac\\Assets\\HolaMundo.cs",
               "RelativeDocumentMoniker": "Assets\\HolaMundo.cs",

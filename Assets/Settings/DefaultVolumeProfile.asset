@@ -13,13 +13,17 @@ MonoBehaviour:
   m_Name: LiftGammaGain
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   lift:
+    <fieldHash>k__BackingField: 1851659112
     m_OverrideState: 1
     m_Value: {x: 1, y: 1, z: 1, w: 0}
   gamma:
+    <fieldHash>k__BackingField: 2091009504
     m_OverrideState: 1
     m_Value: {x: 1, y: 1, z: 1, w: 0}
   gain:
+    <fieldHash>k__BackingField: -1964607400
     m_OverrideState: 1
     m_Value: {x: 1, y: 1, z: 1, w: 0}
 --- !u!114 &-8270506406425502121
@@ -35,13 +39,25 @@ MonoBehaviour:
   m_Name: SplitToning
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   shadows:
+    <fieldHash>k__BackingField: -1684248136
     m_OverrideState: 1
-    m_Value: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    m_Value:
+      r: 0.5
+      g: 0.5
+      b: 0.5
+      a: 1
   highlights:
+    <fieldHash>k__BackingField: -1444897744
     m_OverrideState: 1
-    m_Value: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    m_Value:
+      r: 0.5
+      g: 0.5
+      b: 0.5
+      a: 1
   balance:
+    <fieldHash>k__BackingField: -1205547352
     m_OverrideState: 1
     m_Value: 0
 --- !u!114 &-8104416584915340131
@@ -95,16 +111,21 @@ MonoBehaviour:
   m_Name: MotionBlur
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   mode:
+    <fieldHash>k__BackingField: -1668071528
     m_OverrideState: 1
     m_Value: 0
   quality:
+    <fieldHash>k__BackingField: -1428721136
     m_OverrideState: 1
     m_Value: 0
   intensity:
+    <fieldHash>k__BackingField: -710669960
     m_OverrideState: 1
     m_Value: 0
   clamp:
+    <fieldHash>k__BackingField: -471319568
     m_OverrideState: 1
     m_Value: 0.05
 --- !u!114 &-7274224791359825572
@@ -159,19 +180,29 @@ MonoBehaviour:
   m_Name: ColorAdjustments
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   postExposure:
+    <fieldHash>k__BackingField: 1578411744
     m_OverrideState: 1
     m_Value: 0
   contrast:
+    <fieldHash>k__BackingField: 1817762136
     m_OverrideState: 1
     m_Value: 0
   colorFilter:
+    <fieldHash>k__BackingField: 2057112528
     m_OverrideState: 1
-    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    m_Value:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
   hueShift:
+    <fieldHash>k__BackingField: -1280453200
     m_OverrideState: 1
     m_Value: 0
   saturation:
+    <fieldHash>k__BackingField: -1041102808
     m_OverrideState: 1
     m_Value: 0
 --- !u!114 &-6288072647309666549
@@ -187,16 +218,21 @@ MonoBehaviour:
   m_Name: FilmGrain
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   type:
+    <fieldHash>k__BackingField: -328408648
     m_OverrideState: 1
     m_Value: 0
   intensity:
+    <fieldHash>k__BackingField: -89058256
     m_OverrideState: 1
     m_Value: 0
   response:
+    <fieldHash>k__BackingField: 150292136
     m_OverrideState: 1
     m_Value: 0.8
   texture:
+    <fieldHash>k__BackingField: 389642528
     m_OverrideState: 1
     m_Value: {fileID: 0}
 --- !u!114 &-5520245016509672950
@@ -212,31 +248,41 @@ MonoBehaviour:
   m_Name: Tonemapping
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   mode:
+    <fieldHash>k__BackingField: 615653160
     m_OverrideState: 1
     m_Value: 0
   neutralHDRRangeReductionMode:
+    <fieldHash>k__BackingField: 855003552
     m_OverrideState: 1
     m_Value: 2
   acesPreset:
+    <fieldHash>k__BackingField: 1094353944
     m_OverrideState: 1
     m_Value: 3
   hueShiftAmount:
+    <fieldHash>k__BackingField: 1333704336
     m_OverrideState: 1
     m_Value: 0
   detectPaperWhite:
+    <fieldHash>k__BackingField: 1573054728
     m_OverrideState: 1
     m_Value: 0
   paperWhite:
+    <fieldHash>k__BackingField: 1812405120
     m_OverrideState: 1
     m_Value: 300
   detectBrightnessLimits:
+    <fieldHash>k__BackingField: 2051755512
     m_OverrideState: 1
     m_Value: 1
   minNits:
+    <fieldHash>k__BackingField: -2003861392
     m_OverrideState: 1
     m_Value: 0.005
   maxNits:
+    <fieldHash>k__BackingField: -1764511000
     m_OverrideState: 1
     m_Value: 1000
 --- !u!114 &-5360449096862653589
@@ -293,10 +339,13 @@ MonoBehaviour:
   m_Name: PaniniProjection
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   distance:
+    <fieldHash>k__BackingField: 356840704
     m_OverrideState: 1
     m_Value: 0
   cropToFit:
+    <fieldHash>k__BackingField: 596191096
     m_OverrideState: 1
     m_Value: 1
 --- !u!114 &-1410297666881709256
@@ -312,37 +361,49 @@ MonoBehaviour:
   m_Name: ProbeVolumesOptions
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   normalBias:
+    <fieldHash>k__BackingField: 455576040
     m_OverrideState: 1
     m_Value: 0.33
   viewBias:
+    <fieldHash>k__BackingField: 694926432
     m_OverrideState: 1
     m_Value: 0
   scaleBiasWithMinProbeDistance:
+    <fieldHash>k__BackingField: 934276824
     m_OverrideState: 1
     m_Value: 0
   samplingNoise:
+    <fieldHash>k__BackingField: 1173627216
     m_OverrideState: 1
     m_Value: 0.1
   animateSamplingNoise:
+    <fieldHash>k__BackingField: 1412977608
     m_OverrideState: 1
     m_Value: 1
   leakReductionMode:
+    <fieldHash>k__BackingField: 1652328000
     m_OverrideState: 1
     m_Value: 1
   minValidDotProductValue:
+    <fieldHash>k__BackingField: 1891678392
     m_OverrideState: 1
     m_Value: 0.1
   occlusionOnlyReflectionNormalization:
+    <fieldHash>k__BackingField: 2131028784
     m_OverrideState: 1
     m_Value: 1
   intensityMultiplier:
+    <fieldHash>k__BackingField: -1685237728
     m_OverrideState: 1
     m_Value: 1
   skyOcclusionIntensityMultiplier:
+    <fieldHash>k__BackingField: -1445887336
     m_OverrideState: 1
     m_Value: 1
   worldOffset:
+    <fieldHash>k__BackingField: -1206536944
     m_OverrideState: 1
     m_Value: {x: 0, y: 0, z: 0}
 --- !u!114 &-1216621516061285780
@@ -358,38 +419,58 @@ MonoBehaviour:
   m_Name: Bloom
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   skipIterations:
+    <fieldHash>k__BackingField: 1656154440
     m_OverrideState: 1
     m_Value: 1
   threshold:
+    <fieldHash>k__BackingField: 1895504832
     m_OverrideState: 1
     m_Value: 0.9
   intensity:
+    <fieldHash>k__BackingField: 2134855224
     m_OverrideState: 1
     m_Value: 0
   scatter:
+    <fieldHash>k__BackingField: -1920761680
     m_OverrideState: 1
     m_Value: 0.7
   clamp:
+    <fieldHash>k__BackingField: -1681411288
     m_OverrideState: 1
     m_Value: 65472
   tint:
+    <fieldHash>k__BackingField: -1442060896
     m_OverrideState: 1
-    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    m_Value:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
   highQualityFiltering:
+    <fieldHash>k__BackingField: -963360112
+    m_OverrideState: 1
+    m_Value: 0
+  filter:
+    <fieldHash>k__BackingField: -724009720
     m_OverrideState: 1
     m_Value: 0
   downscale:
+    <fieldHash>k__BackingField: -484659328
     m_OverrideState: 1
     m_Value: 0
   maxIterations:
+    <fieldHash>k__BackingField: -245308936
     m_OverrideState: 1
     m_Value: 6
   dirtTexture:
+    <fieldHash>k__BackingField: -5958544
     m_OverrideState: 1
     m_Value: {fileID: 0}
     dimension: 1
   dirtIntensity:
+    <fieldHash>k__BackingField: 233391848
     m_OverrideState: 1
     m_Value: 0
 --- !u!114 &-1170528603972255243
@@ -405,10 +486,13 @@ MonoBehaviour:
   m_Name: WhiteBalance
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   temperature:
+    <fieldHash>k__BackingField: -361467288
     m_OverrideState: 1
     m_Value: 0
   tint:
+    <fieldHash>k__BackingField: -122116896
     m_OverrideState: 1
     m_Value: 0
 --- !u!114 &-581120513425526550
@@ -444,8 +528,28 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
   m_Name: DefaultVolumeProfile
-  m_EditorClassIdentifier: Unity.RenderPipelines.Core.Runtime::UnityEngine.Rendering.VolumeProfile
-  components: []
+  m_EditorClassIdentifier: 
+  components:
+  - {fileID: -9167874883656233139}
+  - {fileID: 1918650496244738858}
+  - {fileID: 853819529557874667}
+  - {fileID: 1052315754049611418}
+  - {fileID: -1170528603972255243}
+  - {fileID: -8270506406425502121}
+  - {fileID: -5520245016509672950}
+  - {fileID: 7173750748008157695}
+  - {fileID: 1666464333004379222}
+  - {fileID: 9001657382290151224}
+  - {fileID: -6335409530604852063}
+  - {fileID: -1216621516061285780}
+  - {fileID: 3959858460715838825}
+  - {fileID: -7743500325797982168}
+  - {fileID: 4644742534064026673}
+  - {fileID: -4463884970436517307}
+  - {fileID: -6288072647309666549}
+  - {fileID: 7518938298396184218}
+  - {fileID: -1410297666881709256}
+  dirtyState: 0
 --- !u!114 &853819529557874667
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -459,58 +563,81 @@ MonoBehaviour:
   m_Name: ScreenSpaceLensFlare
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   intensity:
+    <fieldHash>k__BackingField: -1272470456
     m_OverrideState: 1
     m_Value: 0
   tintColor:
+    <fieldHash>k__BackingField: -1033120064
     m_OverrideState: 1
-    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    m_Value:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
   bloomMip:
+    <fieldHash>k__BackingField: -793769672
     m_OverrideState: 1
     m_Value: 1
   firstFlareIntensity:
+    <fieldHash>k__BackingField: -554419280
     m_OverrideState: 1
     m_Value: 1
   secondaryFlareIntensity:
+    <fieldHash>k__BackingField: -315068888
     m_OverrideState: 1
     m_Value: 1
   warpedFlareIntensity:
+    <fieldHash>k__BackingField: -75718496
     m_OverrideState: 1
     m_Value: 1
   warpedFlareScale:
+    <fieldHash>k__BackingField: 163631896
     m_OverrideState: 1
     m_Value: {x: 1, y: 1}
   samples:
+    <fieldHash>k__BackingField: 402982288
     m_OverrideState: 1
     m_Value: 1
   sampleDimmer:
+    <fieldHash>k__BackingField: 642332680
     m_OverrideState: 1
     m_Value: 0.5
   vignetteEffect:
+    <fieldHash>k__BackingField: 881683072
     m_OverrideState: 1
     m_Value: 1
   startingPosition:
+    <fieldHash>k__BackingField: 1121033464
     m_OverrideState: 1
     m_Value: 1.25
   scale:
+    <fieldHash>k__BackingField: 1360383856
     m_OverrideState: 1
     m_Value: 1.5
   streaksIntensity:
+    <fieldHash>k__BackingField: -1977181872
     m_OverrideState: 1
     m_Value: 0
   streaksLength:
+    <fieldHash>k__BackingField: -1737831480
     m_OverrideState: 1
     m_Value: 0.5
   streaksOrientation:
+    <fieldHash>k__BackingField: -1498481088
     m_OverrideState: 1
     m_Value: 0
   streaksThreshold:
+    <fieldHash>k__BackingField: -1259130696
     m_OverrideState: 1
     m_Value: 0.25
   resolution:
+    <fieldHash>k__BackingField: -1019780304
     m_OverrideState: 1
     m_Value: 4
   chromaticAbberationIntensity:
+    <fieldHash>k__BackingField: -541079520
     m_OverrideState: 1
     m_Value: 0.5
 --- !u!114 &1052315754049611418
@@ -526,25 +653,33 @@ MonoBehaviour:
   m_Name: ShadowsMidtonesHighlights
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   shadows:
+    <fieldHash>k__BackingField: 394999544
     m_OverrideState: 1
     m_Value: {x: 1, y: 1, z: 1, w: 0}
   midtones:
+    <fieldHash>k__BackingField: 634349936
     m_OverrideState: 1
     m_Value: {x: 1, y: 1, z: 1, w: 0}
   highlights:
+    <fieldHash>k__BackingField: 873700328
     m_OverrideState: 1
     m_Value: {x: 1, y: 1, z: 1, w: 0}
   shadowsStart:
+    <fieldHash>k__BackingField: 1113050720
     m_OverrideState: 1
     m_Value: 0
   shadowsEnd:
+    <fieldHash>k__BackingField: 1352401112
     m_OverrideState: 1
     m_Value: 0.3
   highlightsStart:
+    <fieldHash>k__BackingField: 1591751504
     m_OverrideState: 1
     m_Value: 0.55
   highlightsEnd:
+    <fieldHash>k__BackingField: 1831101896
     m_OverrideState: 1
     m_Value: 1
 --- !u!114 &1666464333004379222
@@ -560,7 +695,9 @@ MonoBehaviour:
   m_Name: ColorCurves
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   master:
+    <fieldHash>k__BackingField: 128969632
     m_OverrideState: 1
     m_Value:
       <length>k__BackingField: 2
@@ -568,10 +705,8 @@ MonoBehaviour:
       m_ZeroValue: 0
       m_Range: 1
       m_Curve:
-        serializedVersion: 2
         m_Curve:
-        - serializedVersion: 3
-          time: 0
+        - time: 0
           value: 0
           inSlope: 1
           outSlope: 1
@@ -579,8 +714,7 @@ MonoBehaviour:
           weightedMode: 0
           inWeight: 0
           outWeight: 0
-        - serializedVersion: 3
-          time: 1
+        - time: 1
           value: 1
           inSlope: 1
           outSlope: 1
@@ -591,7 +725,16 @@ MonoBehaviour:
         m_PreInfinity: 2
         m_PostInfinity: 2
         m_RotationOrder: 4
+      m_LoopingCurve:
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      m_Texture: {fileID: 0}
+      m_IsCurveDirty: 1
+      m_IsTextureDirty: 0
   red:
+    <fieldHash>k__BackingField: 368320024
     m_OverrideState: 1
     m_Value:
       <length>k__BackingField: 2
@@ -599,10 +742,8 @@ MonoBehaviour:
       m_ZeroValue: 0
       m_Range: 1
       m_Curve:
-        serializedVersion: 2
         m_Curve:
-        - serializedVersion: 3
-          time: 0
+        - time: 0
           value: 0
           inSlope: 1
           outSlope: 1
@@ -610,8 +751,7 @@ MonoBehaviour:
           weightedMode: 0
           inWeight: 0
           outWeight: 0
-        - serializedVersion: 3
-          time: 1
+        - time: 1
           value: 1
           inSlope: 1
           outSlope: 1
@@ -622,7 +762,16 @@ MonoBehaviour:
         m_PreInfinity: 2
         m_PostInfinity: 2
         m_RotationOrder: 4
+      m_LoopingCurve:
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      m_Texture: {fileID: 0}
+      m_IsCurveDirty: 1
+      m_IsTextureDirty: 0
   green:
+    <fieldHash>k__BackingField: 607670416
     m_OverrideState: 1
     m_Value:
       <length>k__BackingField: 2
@@ -630,10 +779,8 @@ MonoBehaviour:
       m_ZeroValue: 0
       m_Range: 1
       m_Curve:
-        serializedVersion: 2
         m_Curve:
-        - serializedVersion: 3
-          time: 0
+        - time: 0
           value: 0
           inSlope: 1
           outSlope: 1
@@ -641,8 +788,7 @@ MonoBehaviour:
           weightedMode: 0
           inWeight: 0
           outWeight: 0
-        - serializedVersion: 3
-          time: 1
+        - time: 1
           value: 1
           inSlope: 1
           outSlope: 1
@@ -653,7 +799,16 @@ MonoBehaviour:
         m_PreInfinity: 2
         m_PostInfinity: 2
         m_RotationOrder: 4
+      m_LoopingCurve:
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      m_Texture: {fileID: 0}
+      m_IsCurveDirty: 1
+      m_IsTextureDirty: 0
   blue:
+    <fieldHash>k__BackingField: 847020808
     m_OverrideState: 1
     m_Value:
       <length>k__BackingField: 2
@@ -661,10 +816,8 @@ MonoBehaviour:
       m_ZeroValue: 0
       m_Range: 1
       m_Curve:
-        serializedVersion: 2
         m_Curve:
-        - serializedVersion: 3
-          time: 0
+        - time: 0
           value: 0
           inSlope: 1
           outSlope: 1
@@ -672,8 +825,7 @@ MonoBehaviour:
           weightedMode: 0
           inWeight: 0
           outWeight: 0
-        - serializedVersion: 3
-          time: 1
+        - time: 1
           value: 1
           inSlope: 1
           outSlope: 1
@@ -684,7 +836,16 @@ MonoBehaviour:
         m_PreInfinity: 2
         m_PostInfinity: 2
         m_RotationOrder: 4
+      m_LoopingCurve:
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      m_Texture: {fileID: 0}
+      m_IsCurveDirty: 1
+      m_IsTextureDirty: 0
   hueVsHue:
+    <fieldHash>k__BackingField: 1086371200
     m_OverrideState: 1
     m_Value:
       <length>k__BackingField: 0
@@ -692,12 +853,20 @@ MonoBehaviour:
       m_ZeroValue: 0.5
       m_Range: 1
       m_Curve:
-        serializedVersion: 2
         m_Curve: []
         m_PreInfinity: 2
         m_PostInfinity: 2
         m_RotationOrder: 4
+      m_LoopingCurve:
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      m_Texture: {fileID: 0}
+      m_IsCurveDirty: 1
+      m_IsTextureDirty: 0
   hueVsSat:
+    <fieldHash>k__BackingField: 1325721592
     m_OverrideState: 1
     m_Value:
       <length>k__BackingField: 0
@@ -705,12 +874,20 @@ MonoBehaviour:
       m_ZeroValue: 0.5
       m_Range: 1
       m_Curve:
-        serializedVersion: 2
         m_Curve: []
         m_PreInfinity: 2
         m_PostInfinity: 2
         m_RotationOrder: 4
+      m_LoopingCurve:
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      m_Texture: {fileID: 0}
+      m_IsCurveDirty: 1
+      m_IsTextureDirty: 0
   satVsSat:
+    <fieldHash>k__BackingField: 1565071984
     m_OverrideState: 1
     m_Value:
       <length>k__BackingField: 0
@@ -718,12 +895,20 @@ MonoBehaviour:
       m_ZeroValue: 0.5
       m_Range: 1
       m_Curve:
-        serializedVersion: 2
         m_Curve: []
         m_PreInfinity: 2
         m_PostInfinity: 2
         m_RotationOrder: 4
+      m_LoopingCurve:
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      m_Texture: {fileID: 0}
+      m_IsCurveDirty: 1
+      m_IsTextureDirty: 0
   lumVsSat:
+    <fieldHash>k__BackingField: 1804422376
     m_OverrideState: 1
     m_Value:
       <length>k__BackingField: 0
@@ -731,11 +916,18 @@ MonoBehaviour:
       m_ZeroValue: 0.5
       m_Range: 1
       m_Curve:
-        serializedVersion: 2
         m_Curve: []
         m_PreInfinity: 2
         m_PostInfinity: 2
         m_RotationOrder: 4
+      m_LoopingCurve:
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      m_Texture: {fileID: 0}
+      m_IsCurveDirty: 1
+      m_IsTextureDirty: 0
 --- !u!114 &1918650496244738858
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -749,11 +941,14 @@ MonoBehaviour:
   m_Name: ColorLookup
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   texture:
+    <fieldHash>k__BackingField: -1834197904
     m_OverrideState: 1
     m_Value: {fileID: 0}
     dimension: 1
   contribution:
+    <fieldHash>k__BackingField: -1594847512
     m_OverrideState: 1
     m_Value: 0
 --- !u!114 &3959858460715838825
@@ -769,37 +964,49 @@ MonoBehaviour:
   m_Name: DepthOfField
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   mode:
+    <fieldHash>k__BackingField: 2103986888
     m_OverrideState: 1
     m_Value: 0
   gaussianStart:
+    <fieldHash>k__BackingField: -1951630016
     m_OverrideState: 1
     m_Value: 10
   gaussianEnd:
+    <fieldHash>k__BackingField: -1712279624
     m_OverrideState: 1
     m_Value: 30
   gaussianMaxRadius:
+    <fieldHash>k__BackingField: -1472929232
     m_OverrideState: 1
     m_Value: 1
   highQualitySampling:
+    <fieldHash>k__BackingField: -1233578840
     m_OverrideState: 1
     m_Value: 0
   focusDistance:
+    <fieldHash>k__BackingField: -994228448
     m_OverrideState: 1
     m_Value: 10
   aperture:
+    <fieldHash>k__BackingField: -754878056
     m_OverrideState: 1
     m_Value: 5.6
   focalLength:
+    <fieldHash>k__BackingField: -515527664
     m_OverrideState: 1
     m_Value: 50
   bladeCount:
+    <fieldHash>k__BackingField: -276177272
     m_OverrideState: 1
     m_Value: 5
   bladeCurvature:
+    <fieldHash>k__BackingField: -36826880
     m_OverrideState: 1
     m_Value: 1
   bladeRotation:
+    <fieldHash>k__BackingField: 202523512
     m_OverrideState: 1
     m_Value: 0
 --- !u!114 &4251301726029935498
@@ -831,7 +1038,9 @@ MonoBehaviour:
   m_Name: ChromaticAberration
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   intensity:
+    <fieldHash>k__BackingField: -549062264
     m_OverrideState: 1
     m_Value: 0
 --- !u!114 &6940869943325143175
@@ -860,19 +1069,29 @@ MonoBehaviour:
   m_Name: Vignette
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   color:
+    <fieldHash>k__BackingField: 738772152
     m_OverrideState: 1
-    m_Value: {r: 0, g: 0, b: 0, a: 1}
+    m_Value:
+      r: 0
+      g: 0
+      b: 0
+      a: 1
   center:
+    <fieldHash>k__BackingField: 978122544
     m_OverrideState: 1
     m_Value: {x: 0.5, y: 0.5}
   intensity:
+    <fieldHash>k__BackingField: 1217472936
     m_OverrideState: 1
     m_Value: 0
   smoothness:
+    <fieldHash>k__BackingField: 1456823328
     m_OverrideState: 1
     m_Value: 0.2
   rounded:
+    <fieldHash>k__BackingField: 1696173720
     m_OverrideState: 1
     m_Value: 0
 --- !u!114 &7518938298396184218
@@ -888,19 +1107,25 @@ MonoBehaviour:
   m_Name: LensDistortion
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   intensity:
+    <fieldHash>k__BackingField: 821436440
     m_OverrideState: 1
     m_Value: 0
   xMultiplier:
+    <fieldHash>k__BackingField: 1060786832
     m_OverrideState: 1
     m_Value: 1
   yMultiplier:
+    <fieldHash>k__BackingField: 1300137224
     m_OverrideState: 1
     m_Value: 1
   center:
+    <fieldHash>k__BackingField: 1539487616
     m_OverrideState: 1
     m_Value: {x: 0.5, y: 0.5}
   scale:
+    <fieldHash>k__BackingField: 1778838008
     m_OverrideState: 1
     m_Value: 1
 --- !u!114 &9001657382290151224
@@ -916,31 +1141,41 @@ MonoBehaviour:
   m_Name: ChannelMixer
   m_EditorClassIdentifier: 
   active: 1
+  <displayName>k__BackingField: 
   redOutRedIn:
+    <fieldHash>k__BackingField: -1810025456
     m_OverrideState: 1
     m_Value: 100
   redOutGreenIn:
+    <fieldHash>k__BackingField: -1570675064
     m_OverrideState: 1
     m_Value: 0
   redOutBlueIn:
+    <fieldHash>k__BackingField: -1331324672
     m_OverrideState: 1
     m_Value: 0
   greenOutRedIn:
+    <fieldHash>k__BackingField: -1091974280
     m_OverrideState: 1
     m_Value: 0
   greenOutGreenIn:
+    <fieldHash>k__BackingField: -852623888
     m_OverrideState: 1
     m_Value: 100
   greenOutBlueIn:
+    <fieldHash>k__BackingField: -613273496
     m_OverrideState: 1
     m_Value: 0
   blueOutRedIn:
+    <fieldHash>k__BackingField: -373923104
     m_OverrideState: 1
     m_Value: 0
   blueOutGreenIn:
+    <fieldHash>k__BackingField: -134572712
     m_OverrideState: 1
     m_Value: 0
   blueOutBlueIn:
+    <fieldHash>k__BackingField: 104777680
     m_OverrideState: 1
     m_Value: 100
 --- !u!114 &9122958982931076880
