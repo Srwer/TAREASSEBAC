@@ -1,7 +1,5 @@
-using System.Diagnostics;
 using UnityEngine;
 
-[DebuggerDisplay("{" + nameof(GetDebuggerDisplay) + "(),nq}")]
 public class ColorAwake : MonoBehaviour
 {
     private MeshRenderer meshRenderer;
@@ -10,10 +8,5 @@ public class ColorAwake : MonoBehaviour
     {
         meshRenderer = GetComponent<MeshRenderer>();
         meshRenderer.material.color = new Color(Random.value, Random.value, Random.value);
-    }
-
-    private string GetDebuggerDisplay()
-    {
-        return ToString();
     }
 }
